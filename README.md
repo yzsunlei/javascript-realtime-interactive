@@ -77,3 +77,9 @@ Web实时交互方式：轮询、长轮询、长连接及推送
 [Web端即时通讯技术盘点：短轮询、Comet、Websocket、SSE](http://www.52im.net/thread-336-1-1.html)
 
 [SSE技术详解：一种全新的HTML5服务器推送事件技术](https://zhuanlan.zhihu.com/p/21639227)
+
+[可以用WebRTC来做视频直播吗？](https://www.zhihu.com/question/25497090)
+
+[WebRTC权威指南](https://book.douban.com/subject/26915289/)
+
+[WebRTC音视频开发：React+Flutter+Go实战](https://book.douban.com/subject/35221750/)
